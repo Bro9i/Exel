@@ -70,5 +70,5 @@ if __name__ == "__main__":
     manager.fetch_entity("people")
     manager.fetch_entity("planets")
     manager.fetch_entity("films")
-#
+
     manager.save_to_excel("C:/Users/VPU29Lviv/Desktop/Swapi.xlsx")
